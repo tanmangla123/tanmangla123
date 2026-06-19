@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tanya+Mangla+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Aspiring+Software+Engineer;DSA+Enthusiast;Software+Development+%7C+Problem+Solving;Machine+Learning+Explorer;C%2B%2B+%7C+Python+%7C+Java+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tanya+Mangla+%F0%9F%91%8B;Artificial+Intelligence+%26+Data+Science+Undergraduate;Aspiring+Software+Engineer;DSA+Enthusiast;Software+Development+%7C+Problem+Solving;Machine+Learning+Explorer;C%2B%2B+%7C+Python+%7C+Java+%7C+SQL)](https://git.io/typing-svg)
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science<br>- 💻 Interested in Software Development and Full-Stack Applications<br>- 🧠 Actively learning Data Structures & Algorithms<br>- 🤖 Exploring Artificial Intelligence and Machine Learning<br>- 🗄️ Strong interest in Database Management Systems<br>- 🌱 Focused on continuous learning and skill development<br>
 
 
